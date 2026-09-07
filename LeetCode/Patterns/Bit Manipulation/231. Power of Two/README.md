@@ -8,7 +8,7 @@
 Math, Bit Manipulation, Recursion
 
 ### 🚀 Performance
-- **Runtime:** 3 ms
+- **Runtime:** 0 ms
 - **Memory:** 7.9 MB
 
 ---
