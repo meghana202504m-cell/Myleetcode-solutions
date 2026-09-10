@@ -1,0 +1,13 @@
+                current.next = current.next.next;
+            if (current.val == current.next.val) {
+
+
+        while (current != null && current.next != null) {
+        ListNode current = head;
+class Solution {
+    public ListNode deleteDuplicates(ListNode head) {
+ */
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode() {}
